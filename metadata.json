@@ -1,0 +1,11 @@
+{
+  "name": "Remix: Antonio\u0027s Paper Pet",
+  "description": "An intelligent, multi-platform spatial companion powered by Gemini Live. It uses your camera and microphone to help you focus and keep you company as a retro 8-bit ESP32 OLED robot.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
